@@ -1,0 +1,23 @@
+{
+  "name": "greatbay",
+  "version": "1.0.0",
+  "description": "Command line application to let you post, bid items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaime-Huynh0901/GreatBay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaime-Huynh0901/GreatBay/issues"
+  },
+  "homepage": "https://github.com/Jaime-Huynh0901/GreatBay#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
